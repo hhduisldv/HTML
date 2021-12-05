@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body{
+	background-color: MediumSeaGreen;
+}
+
+h1,h2,h3{
+	color:LightGray;
+	}
+p{
+	color:LightGray;
+}
+img{
+position:absolute;
+left:750px;
+top:10px;
+}
+</style>
+</head>
+<body>
+<h1>ZhouYichi   zhouyichi1028@icloud.com</h1>
+
+<h2>EDUCATION BACKGROUND</h2>
+<hr/>
+<p>HUAZHONG AGRICULTURE UNIVERSITY <a href="http://www.hzau.edu.cn/">To learn more</a></p>
+<p>College of informatics</p>
+<a <!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body{
+	background-color: MediumSeaGreen;
+}
+
+h1,h2,h3{
+	color:LightGray;
+	}
+p{
+	color:LightGray;
+}
+img{
+position:absolute;
+left:750px;
+top:10px;
+}
+</style>
+</head>
+<body>
+<h1>ZhouYichi   zhouyichi1028@icloud.com</h1>
+
+<h2>EDUCATION BACKGROUND</h2>
+<hr/>
+<p>HUAZHONG AGRICULTURE UNIVERSITY <a href="http://www.hzau.edu.cn/">To learn more</a></p>
+<p>College of informatics</p>
+<a href="https://sm.ms/image/NguLO8hpmEI5GYJ" target="_blank"><img src="https://i.loli.net/2021/11/30/NguLO8hpmEI5GYJ.jpg"  width="80" height="120"></a>
+<hr/>
+<h3>(这是第二段正文的标题）</h3>
+<p>我发现我前18年的人生如同一张白纸</p>
+</body>
+</html>  width="80" height="120"></a>
+<hr/>
+<h3>(这是第二段正文的标题）</h3>
+<p>我发现我前18年的人生如同一张白纸</p>
+</body>
+</html>
